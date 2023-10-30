@@ -1,0 +1,16 @@
+RGB30_Trinitron   x0   y51
+ws wsc            x24  y86
+RGB30_SS_480p     x40  y79
+RGB30_DC_480p     x40  y79
+RGB30_DOS_480p    x40  y79
+RGB30_PS1_480p    x40  y79
+RGB30_MD_480p     x40  y79
+RGB30_MD_2x       x40  y95
+RGB30_LYNX_FULL   x0   y130
+RGB30_LYNX_4x     x40  y156
+fc sfc 670x586    x25  y33   
+fc full           x0   y22
+
+
+
+
